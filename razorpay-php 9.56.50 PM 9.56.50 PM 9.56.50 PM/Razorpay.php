@@ -1,7 +1,7 @@
 <?php
 
 // Include Requests
-require_once __DIR__.'/libs/Requests-2.0.4/library/Requests.php';
+require_once __DIR__.'/libs/Requests-1.6.1/library/Requests.php';
 
 // Register requests autoloader
 Requests::register_autoloader();
